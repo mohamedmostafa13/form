@@ -75,6 +75,9 @@ form h3 span{
     color: #e5e5e5;
 }
 label{
+    -webkit-user-select: all;  /* Chrome 49+ */
+  -moz-user-select: all;     /* Firefox 43+ */
+  -ms-user-select: all;      /* No support yet */
     display: block;
     margin-top: 30px;
     font-size: 26px;

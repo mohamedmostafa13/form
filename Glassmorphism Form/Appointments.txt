@@ -1,0 +1,124 @@
+*** each slot has 2 interviews remember that ***
+
+HR
+
+SAT from 10AM to 11AM
+SAT from 11AM to 12AM
+SAT from 12AM to 1PM
+SAT from 1PM to 2PM
+SAT from 2PM to 3PM
+SAT from 3PM to 4PM
+SAT from 4PM to 5PM
+
+SUN from 10AM to 11AM
+SUN from 11AM to 12AM
+SUN from 12AM to 1PM
+SUN from 1PM to 2PM
+SUN from 2PM to 3PM
+SUN from 3PM to 4PM
+SUN from 4PM to 5PM
+
+ART
+
+SAT from 10AM to 11AM
+SAT from 11AM to 12AM
+SAT from 12AM to 1PM
+SAT from 1PM to 2PM
+SAT from 2PM to 3PM
+SAT from 3PM to 4PM
+SAT from 4PM to 5PM
+
+SUN from 10AM to 11AM
+SUN from 11AM to 12AM
+SUN from 12AM to 1PM
+SUN from 1PM to 2PM
+SUN from 2PM to 3PM
+SUN from 3PM to 4PM
+SUN from 4PM to 5PM
+
+Web
+
+SAT from 10AM to 11AM
+SAT from 11AM to 12AM
+SAT from 12AM to 1PM
+SAT from 1PM to 2PM
+SAT from 2PM to 3PM
+SAT from 3PM to 4PM
+SAT from 4PM to 5PM
+
+SUN from 10AM to 11AM
+SUN from 11AM to 12AM
+SUN from 12AM to 1PM
+SUN from 1PM to 2PM
+SUN from 2PM to 3PM
+SUN from 3PM to 4PM
+SUN from 4PM to 5PM
+
+
+
+Blender
+
+MON from 9:30AM to 10:30AM
+MON from 10:30AM to 11:30AM
+MON from 11:30AM to 12:30PM
+
+
+CCC
+
+MON from 9:30AM to 10:30AM
+MON from 10:30AM to 11:30AM
+MON from 11:30AM to 12:30PM
+
+
+Plc
+
+TUE from 1PM to 2PM
+TUE from 2PM to 3PM
+TUE from 3PM to 4PM
+TUE from 4PM to 5PM
+
+THU from 1PM to 2PM
+THU from 2PM to 3PM
+THU from 3PM to 4PM
+THU from 4PM to 5PM
+
+Science and tech
+
+TUE from 1PM to 2PM
+TUE from 2PM to 3PM
+TUE from 3PM to 4PM
+TUE from 4PM to 5PM
+
+WED from 1PM to 2PM
+WED from 2PM to 3PM
+WED from 3PM to 4PM
+WED from 4PM to 5PM
+
+Linux
+
+WED from 1PM to 2PM
+WED from 2PM to 3PM
+WED from 3PM to 4PM
+WED from 4PM to 5PM
+
+THU from 1PM to 2PM
+THU from 2PM to 3PM
+THU from 3PM to 4PM
+THU from 4PM to 5PM
+
+EC
+
+TUE from 1PM to 2PM
+TUE from 2PM to 3PM
+TUE from 3PM to 4PM
+TUE from 4PM to 5PM
+
+WED from 1PM to 2PM
+WED from 2PM to 3PM
+WED from 3PM to 4PM
+WED from 4PM to 5PM
+
+THU from 1PM to 2PM
+THU from 2PM to 3PM
+THU from 3PM to 4PM
+THU from 4PM to 5PM
