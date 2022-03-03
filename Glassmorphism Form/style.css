@@ -152,5 +152,21 @@ button{
   border-left: 1px solid #fff;
   z-index: -1;
 }
-
+@media screen and (min-width: 480px) {
+    .shape:first-child{
+   
+    left: -80px;
+    top: -350px;
+}
+.shape:last-child{
+   
+    right: -90px;
+    bottom: -400px;
+}
+  form{
+     
+    top: 43%;
+    left: 40%;
+  }
+}
 
