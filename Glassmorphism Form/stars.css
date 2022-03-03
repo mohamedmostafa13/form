@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  overflow: hidden;
+  color: white;
+
+    display: flex;
+    justify-content: center;
+}
+body{
+     background-image: url("stars.jpg");
+    margin-top: 50px;
+}
+
